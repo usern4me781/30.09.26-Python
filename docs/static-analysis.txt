@@ -1,0 +1,4 @@
+Команда: python tools/static_review.py helpdesk.py
+Вывод: Замечаний не обнаружено (Clean run)
+Вывод: Замечаний не обнаружено (Clean run)
+Вывод: Замечаний не обнаружено (Clean run)
